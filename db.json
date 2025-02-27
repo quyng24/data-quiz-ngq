@@ -740,7 +740,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 60,
+        "id": 61,
         "topicId": 4,
         "question": "Hook nào dùng để quản lý trạng thái trong React?",
         "answers": [
@@ -751,7 +751,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 61,
+        "id": 62,
         "topicId": 4,
         "question": "Thẻ nào dùng để tạo một component trong JSX?",
         "answers": [
@@ -762,7 +762,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 62,
+        "id": 63,
         "topicId": 4,
         "question": "Hàm nào dùng để định nghĩa một component class trong React?",
         "answers": [
@@ -773,7 +773,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 63,
+        "id": 64,
         "topicId": 4,
         "question": "Props trong React là gì?",
         "answers": [
@@ -784,7 +784,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 64,
+        "id": 65,
         "topicId": 4,
         "question": "Hàm nào dùng để cập nhật trạng thái trong component class?",
         "answers": [
@@ -795,7 +795,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 65,
+        "id": 66,
         "topicId": 4,
         "question": "Hook nào dùng để xử lý side effects trong React?",
         "answers": [
@@ -806,7 +806,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 66,
+        "id": 67,
         "topicId": 4,
         "question": "Thư viện nào thường được dùng cùng React để quản lý trạng thái toàn cục?",
         "answers": [
@@ -817,7 +817,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 67,
+        "id": 68,
         "topicId": 4,
         "question": "Phương thức nào được gọi khi component được render lần đầu?",
         "answers": [
@@ -828,7 +828,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 68,
+        "id": 69,
         "topicId": 4,
         "question": "React Router dùng để làm gì?",
         "answers": [
@@ -839,7 +839,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 69,
+        "id": 70,
         "topicId": 4,
         "question": "Cú pháp nào đúng để truyền props vào component?",
         "answers": [
@@ -850,7 +850,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 70,
+        "id": 71,
         "topicId": 4,
         "question": "Hook nào dùng để truy cập context trong React?",
         "answers": [
@@ -861,7 +861,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 71,
+        "id": 72,
         "topicId": 4,
         "question": "Phương thức nào dùng để xóa component khỏi DOM?",
         "answers": [
@@ -872,7 +872,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 72,
+        "id": 73,
         "topicId": 4,
         "question": "React Fragment dùng để làm gì?",
         "answers": [
@@ -883,7 +883,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 73,
+        "id": 74,
         "topicId": 4,
         "question": "Hàm nào dùng để tối ưu hóa hiệu suất render?",
         "answers": [
@@ -894,7 +894,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 74,
+        "id": 75,
         "topicId": 4,
         "question": "State trong React được quản lý ở đâu?",
         "answers": [
@@ -905,7 +905,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 75,
+        "id": 76,
         "topicId": 4,
         "question": "Thư viện nào thường được dùng để tạo form trong React?",
         "answers": [
@@ -916,7 +916,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 76,
+        "id": 77,
         "topicId": 4,
         "question": "Phương thức nào gọi lại khi props thay đổi?",
         "answers": [
@@ -927,7 +927,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 77,
+        "id": 78,
         "topicId": 4,
         "question": "Key trong danh sách React dùng để làm gì?",
         "answers": [
@@ -938,7 +938,7 @@
         "correctAnswer": 1
       },
       {
-        "id": 78,
+        "id": 79,
         "topicId": 4,
         "question": "Hook nào dùng để memo hóa giá trị?",
         "answers": [
@@ -949,7 +949,7 @@
         "correctAnswer": 0
       },
       {
-        "id": 79,
+        "id": 80,
         "topicId": 4,
         "question": "ReactDOM.render dùng để làm gì?",
         "answers": [
